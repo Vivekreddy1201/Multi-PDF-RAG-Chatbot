@@ -30,7 +30,6 @@ The system uses **vector search + LLM + conversational memory** to generate accu
 
 ![Sources](screenshots/sources.png)
 
->  Create a folder named `screenshots/` in your repo and add images there.
 
 ---
 
