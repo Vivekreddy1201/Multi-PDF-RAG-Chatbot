@@ -1,0 +1,21 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+mistralai
+langchain-mistralai
+
+faiss-cpu        # vector store (local)
+chromadb         # optional alternative vector DB
+
+tiktoken         # token counting
+
+pypdf            # PDF loader
+python-docx      # DOCX loader
+unstructured     # for multiple file types
+
+sentence-transformers   # local embeddings (HuggingFace)
+
+python-dotenv    # env variables
+
+streamlit
