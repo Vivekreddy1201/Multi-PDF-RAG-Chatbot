@@ -16,15 +16,15 @@ The system uses **vector search + LLM + conversational memory** to generate accu
 
 ---
 
-## 🖼️ Demo Screenshots
-
-### 🔹 Upload PDFs
-
-![Upload](screenshots/upload.png)
+##  Demo Screenshots
 
 ### 🔹 Chat Interface
 
 ![Chat](screenshots/chat.png)
+
+### 🔹 Upload PDFs
+
+![Upload](screenshots/upload.png)
 
 ### 🔹 Answer with Sources
 
@@ -68,7 +68,7 @@ RAG/
 │── app.py
 │── main.py
 │── create_db.py
-│── screenshots/        # 📸 add images here
+│── screenshots/        
 │── chroma_db/
 │── .env
 │── README.md
@@ -131,14 +131,6 @@ streamlit run app.py
 
 ---
 
-##  Example Queries
-
-* *What is Java?*
-* *Explain OOP concepts from the document*
-* *What are its features?*
-
----
-
 ##  Key Concepts
 
 ###  RAG (Retrieval-Augmented Generation)
@@ -179,5 +171,4 @@ doc.metadata["source"] = file.name
 * Document QA systems
 * Knowledge assistants
 * Research tools
-* Portfolio project
-* 
+* Portfolio project 
